@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=C6BBB7&height=200&section=header&text=jhy's%20GitHub&animation=fadeIn&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=C6BBB7&height=200&section=header&text=hello,%20you&animation=fadeIn&fontSize=60)
 
 ## sns list
 <a href="https://velog.io/@gpdbs2" target="_blank"><img src="https://img.shields.io/badge/Velog-000000?style=flat-square&logo=Velog&logoColor=white"/></a>
